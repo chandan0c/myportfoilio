@@ -3,7 +3,7 @@ import "./Myimage.css"
 import logo from '../../src/images/Myimage.jpeg';
 function Myimage() {
   return (
-       <div className="myimg" alt="pagal">
+       <div className="myimg">
         <div>
            <h1>Hi I am Chandan ,</h1>
            <h1 className="red">Full Stack Developer</h1>
@@ -17,7 +17,7 @@ function Myimage() {
            </div>
         </div>
         <div>
-            <img src={logo} alt="my image"/>
+            <img src={logo} alt="pagal"/>
         </div>
      </div>
   )

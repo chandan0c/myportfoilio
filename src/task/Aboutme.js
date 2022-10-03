@@ -5,7 +5,7 @@ function Aboutme() {
   return (
     <div className='aboutme' id="AboutMe">
          <div>
-            <img src={logo} alt="my image"/>
+            <img src={logo} alt="pagal"/>
         </div>
         <div>
             <h1>About me</h1>
