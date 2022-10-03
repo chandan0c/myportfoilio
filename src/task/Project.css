@@ -42,3 +42,14 @@
     font-size: 25px;
     border-radius: 10px;
  }
+ @media only screen and (max-width: 500px){
+    .projectcontainer{
+        background-color: #1e4136; 
+        padding: 20px 20px;
+        text-align: center;
+    }
+    .project{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+ }

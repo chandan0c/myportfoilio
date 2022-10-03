@@ -5,7 +5,7 @@ function Myimage() {
   return (
        <div className="myimg">
         <div>
-           <h1>Hi I am Chandan ,</h1>
+           <h1>Hi I am Chandan,</h1>
            <h1 className="red">Full Stack Developer</h1>
            <h2>An enthusiastic Full Stack Web Developer with a strong set of <br/> as well as non-technical skills and a dedication towards <br/> creating useful and interactive web applications.</h2>
            <button>
@@ -16,7 +16,7 @@ function Myimage() {
               <a href="https://github.com/">Github</a>
            </div>
         </div>
-        <div>
+        <div className='myimg2'>
             <img src={logo} alt="pagal"/>
         </div>
      </div>

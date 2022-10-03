@@ -23,3 +23,11 @@
     margin-bottom: 10px;
     border-radius: 10px;
 }
+@media only screen and (max-width: 500px){
+    .skills{
+        display: flex;
+        margin-top: 30px;
+        justify-content: space-between;
+        padding: 20px 30px;
+    }
+}

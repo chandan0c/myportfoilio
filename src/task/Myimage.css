@@ -42,3 +42,26 @@
      margin-right: 40px;
      border-radius: 10px;
  }
+ @media only screen and (max-width: 500px){
+    .myimg{
+        display:grid;
+        justify-content: space-between;
+        padding: 50px 30px; 
+        color: white;
+        background-color: rgb(31, 28, 28);
+     }
+     h1{
+        font-size: 15px;
+     }
+     h2{
+        font-size: 18px;
+     }
+     img{
+        width: 300px;
+        margin-top: 30px;
+     }
+     .myimg2{
+        align-items: center;
+        padding-left: 80px;
+     }
+ }
