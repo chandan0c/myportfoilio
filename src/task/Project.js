@@ -10,7 +10,7 @@ function Project() {
        <h1>Projects</h1>
        <div className='project'>
          <div>
-            <img src={travelocity} alt="image"/>
+            <img src={travelocity} alt="pagal"/>
             <h1>Trevleocity Clone</h1>
             <h2>It Provide online hotel and cab booking service to the user</h2>
             <h3>HTML | CSS | JAVASCRIPT | JSON-SERVER | REACT | Redux | MATERIAL-UI | CHAKRA-UI</h3>
@@ -20,7 +20,7 @@ function Project() {
             </div>
          </div>
          <div>
-            <img src={myfitness} alt="image"/>
+            <img src={myfitness} alt="pagal"/>
             <h1>MyFitnessPal Clone</h1>
             <h2>It helps user to achive there fitness goal </h2>
             <h3>HTML | CSS | JAVASCRIPT | JSON-SERVER | REACT | Redux</h3>
@@ -30,7 +30,7 @@ function Project() {
             </div>
          </div>
          <div>
-            <img src={kfc} alt="image"/>
+            <img src={kfc} alt="pagal"/>
             <h1>KFC Clone</h1>
             <h2>user can order food thorugh kfc website</h2>
             <h3>HTML | CSS | JAVASCRIPT | JSON-SERVER | REACT | Redux</h3>
@@ -40,7 +40,7 @@ function Project() {
             </div>
          </div>
          <div>
-            <img src={zoomcar} alt="image"/>
+            <img src={zoomcar} alt="pagal"/>
             <h1>ZoomCar Clone</h1>
             <h2>provide Online cab booking facility to the user</h2>
             <h3>HTML | CSS | JAVASCRIPT | JSON-SERVER | REACT | Redux | LOCAL-STORAGE</h3>

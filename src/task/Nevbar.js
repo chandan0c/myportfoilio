@@ -6,10 +6,10 @@ function Nevbar(props) {
     <div>
       <div className="nevbar">
          <div>
-            <a href="#" onClick={()=>{props.handleONclick(1)}}>Chandan</a>
+            <span onClick={()=>{props.handleONclick(1)}}>Chandan</span>
          </div>
          <div>
-            <a onClick={()=>{props.handleONclick(2)}} href="#">Home</a>
+            <span onClick={()=>{props.handleONclick(2)}} >Home</span>
             <span onClick={()=>{props.handleONclick(3)}} >About</span>
             <span onClick={()=>{props.handleONclick(4)}} >Skills</span>
             <span onClick={()=>{props.handleONclick(5)}} >Projects</span>
