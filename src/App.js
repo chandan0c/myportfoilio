@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Nevbar from './task/Nevbar';
 import Myimage from './task/Myimage';
