@@ -1,0 +1,15 @@
+.contact{
+    background-color: black;
+    text-align: center;
+}
+
+.contact h3{
+    margin-top: 25px;
+}
+.contact h2{
+    font-size: 15px;
+    margin-top: 25px;
+}
+.contact span{
+    color: brown;
+}

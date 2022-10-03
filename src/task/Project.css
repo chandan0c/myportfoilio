@@ -1,0 +1,44 @@
+*{
+    color: white;
+}
+.projectcontainer{
+    background-color: #1e4136; 
+    padding: 20px 110px;
+    text-align: center;
+}
+.projectcontainer h1{
+    color: white;
+    margin-bottom: 20px;
+}
+.project{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.project div{
+    background-color:black;
+    margin-bottom: 30px;
+    margin-top: 40px;
+    margin-right: 40px;
+    border-radius: 10px;
+}
+.project div img{
+    width: 100%;
+    height: auto;
+    border-radius: 10px 0px;
+}
+.project div h2{
+   font-size: 15px;
+   color: white;
+}
+.project div h3{
+    font-size: 12px;
+    color: white;
+ }
+ .github a{
+    color:rgb(224, 37, 37);
+    padding: 10px;
+    margin-right: 20px;
+    background-color: white;
+    font-size: 25px;
+    border-radius: 10px;
+ }

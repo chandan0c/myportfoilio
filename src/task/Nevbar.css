@@ -1,0 +1,18 @@
+.nevbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 200px;
+    background-color: black;
+    color: white;
+}
+.nevbar a{
+    color: white;
+    font-size: 25px;
+    margin-left: 25px;
+}
+.nevbar span{
+    color: white;
+    font-size: 25px;
+    margin-left: 25px;
+    cursor: pointer;
+}

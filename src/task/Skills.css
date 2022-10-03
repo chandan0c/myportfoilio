@@ -1,0 +1,25 @@
+.skillscontainer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 30px;
+}
+.skills{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-between;
+    padding: 20px 300px;
+}
+.skills h2{
+    color: rgb(231, 60, 60);
+    margin-bottom: 30px;
+}
+.skills button{
+    display: block;
+    padding: 10px 30px;
+    color: rgb(231, 60, 60);
+    background-color: white;
+    width: 120px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
