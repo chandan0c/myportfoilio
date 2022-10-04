@@ -11,10 +11,10 @@ function Contact() {
          <a href='https://github.com/'>Git Hub</a>
        </h3>
        <h3 >
-         <a >chandan0c098@gmail.com</a>
+         <span >chandan0c098@gmail.com</span>
        </h3>
        <h3 >
-         <a >+91 7441129480</a>
+         <span >+91 7441129480</span>
        </h3>
        <h2>Designed & Built by <span>Chandan</span> © 2022</h2>
     </div>
