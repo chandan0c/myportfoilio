@@ -1,31 +1,27 @@
 .nevbar{
     display: flex;
     justify-content: space-between;
-    padding: 20px 200px;
     background-color: black;
     color: white;
+    padding: 10px;
 }
 .nevbar a{
     color: white;
     font-size: 25px;
-    margin-left: 25px;
+
 }
 .nevbar span{
     color: white;
     font-size: 25px;
-    margin-left: 25px;
     cursor: pointer;
+    margin: 0px 10px;
 }
-@media only screen and (max-width: 500px){
+@media only screen and (max-width: 600px){
     .chandan,.resume{
         display: none;
     }
-    .nevbar{
-        padding: 10px 10px;
-    }
     .nevbar span{
         color: white;
-        font-size: 18px;
-        margin-left: 10px;
+        font-size: 10px;
     }    
 }

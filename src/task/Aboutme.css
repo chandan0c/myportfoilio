@@ -1,7 +1,7 @@
 .aboutme{
-   display: flex;
-   justify-content: space-between;
-   padding: 80px 40px;
+   display: grid;
+   grid-template-columns: auto auto;
+   gap: 10px;
    background-color: #1e4136;
    color: white;
 }
@@ -13,20 +13,20 @@
     font-size: 25px;
 }
 .aboutme img{
-    width: 600px;
-    height: auto;
-    margin-right: 30px;
+    width: 98%;
+    padding: 5px;
     border-radius: 10px;
 }
-@media only screen and (max-width: 500px){
+@media only screen and (max-width: 600px){
     .aboutme{
-        display: block;
+        grid-template-columns: auto;
         padding-top: 20px;
     }
-    .aboutme img{
-        width: 350px;
-        margin-right: 10px;
+    .imginfo{
+        width: 100%;
+        padding: 20px;
     }
+
     .aboutme h1{
         text-align: center;
         margin-bottom: 20px;
@@ -35,5 +35,7 @@
     }
     .aboutme h2{
         font-size: 17px;
+        padding: 5px;
+        text-align: center;
     }
 }

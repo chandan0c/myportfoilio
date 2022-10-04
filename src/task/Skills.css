@@ -7,8 +7,8 @@
 .skills{
     display: flex;
     margin-top: 50px;
-    justify-content: space-between;
-    padding: 20px 300px;
+    justify-content: space-around;
+    padding: 20px;
 }
 .skills h2{
     color: rgb(231, 60, 60);

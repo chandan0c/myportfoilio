@@ -5,57 +5,6 @@
   font-family: cursive;
 }
 
-.nevbar{
-  display: flex;
-  justify-content: space-between;
-  padding: 20px 200px;
-  background-color: black;
-  color: white;
-}
-.nevbar a{
-  color: white;
-  font-size: 25px;
-  margin-left: 25px;
-}
-.myimg{
- display: flex;
- justify-content: space-between;
- padding: 80px 50px; 
- color: white;
- background-color: rgb(31, 28, 28);
-}
-.myimg h1{
-  font-size: 50px;
-}
-.myimg .red{
-  color: rgb(231, 60, 60);
-}
-.myimg h2{
-  margin-top: 50px;
-}
-.myimg img{
-  border-radius: 10px;
-}
-.myimg button{
-  padding: 8px 50px;
-  background-color: white;
-  border-radius: 10px;
-  margin-top: 40px;
-}
-.myimg button a{
-  color: rgb(231, 60, 60);
-  font-size: 40px;
-}
-.sociallink{
-  display: flex;
 
-margin-top: 30px;
-}
-.sociallink a{
-  padding: 8px 50px;
-  color: rgb(231, 60, 60);
-  font-size: 25px;
-  background-color: white;
-  margin-right: 40px;
-  border-radius: 10px;
-}
+
+

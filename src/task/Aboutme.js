@@ -4,7 +4,7 @@ import "./Aboutme.css"
 function Aboutme() {
   return (
     <div className='aboutme' id="AboutMe">
-         <div>
+         <div className='imginfo'>
             <img src={logo} alt="pagal"/>
         </div>
         <div>

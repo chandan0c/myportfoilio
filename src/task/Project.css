@@ -3,7 +3,6 @@
 }
 .projectcontainer{
     background-color: #1e4136; 
-    padding: 20px 110px;
     text-align: center;
 }
 .projectcontainer h1{
@@ -15,10 +14,10 @@
     grid-template-columns: repeat(2,1fr);
 }
 .project div{
+    padding: 10px;
     background-color:black;
     margin-bottom: 30px;
     margin-top: 40px;
-    margin-right: 40px;
     border-radius: 10px;
 }
 .project div img{
@@ -34,22 +33,28 @@
     font-size: 12px;
     color: white;
  }
+ .github{
+    display: flex;
+    justify-content: space-around;
+ }
  .github a{
     color:rgb(224, 37, 37);
     padding: 10px;
-    margin-right: 20px;
     background-color: white;
     font-size: 25px;
     border-radius: 10px;
  }
- @media only screen and (max-width: 500px){
+ @media only screen and (max-width: 600px){
     .projectcontainer{
         background-color: #1e4136; 
-        padding: 20px 20px;
         text-align: center;
     }
     .project{
         display: grid;
         grid-template-columns: repeat(1,1fr);
+    }
+    .github{
+        display: flex;
+        justify-content: space-around;
     }
  }
