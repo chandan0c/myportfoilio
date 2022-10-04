@@ -44,6 +44,10 @@
     font-size: 25px;
     border-radius: 10px;
  }
+ .github a:hover{
+    color: white;
+    background-color: rgb(231, 60, 60);;
+ }
  @media only screen and (max-width: 600px){
     .projectcontainer{
         background-color: #1e4136; 

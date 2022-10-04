@@ -29,10 +29,16 @@
      border-radius: 10px;
      margin-top: 40px;
  }
+ .myimg button:hover{
+    background-color: rgb(231, 60, 60);;
+ }
  .myimg button a{
      color: rgb(231, 60, 60);
      font-size: 40px;
     
+ }
+ .myimg button a:hover{
+    color: white;
  }
  .sociallink{
    display: flex;
@@ -40,12 +46,17 @@ text-align: center;
  margin-top: 30px;
  justify-content: space-around;
  }
+
  .sociallink a{
      color: rgb(231, 60, 60);
      font-size: 25px;
      background-color: white;
      border-radius: 10px;
      padding: 5px 10px;
+ }
+ .sociallink a:hover{
+    color: white;
+    background-color: rgb(231, 60, 60);;
  }
  @media only screen and (max-width: 600px){
     .myimg button{

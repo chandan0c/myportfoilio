@@ -16,6 +16,9 @@
     cursor: pointer;
     margin: 0px 10px;
 }
+.nevbar span:hover{
+    color:rgb(231, 60, 60);
+}
 @media only screen and (max-width: 600px){
     .chandan,.resume{
         display: none;
