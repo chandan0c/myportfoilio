@@ -15,8 +15,8 @@ function Project() {
             <h2>It Provide online hotel and cab booking service to the user</h2>
             <h3>HTML | CSS | JAVASCRIPT | JSON-SERVER | REACT | Redux | MATERIAL-UI | CHAKRA-UI</h3>
             <div className='github'>
-                <a href='https://github.com/akram3598786/TravelCity-Clone'>Source Code</a>
-                <a href='https://travelcity-clone.netlify.app/'>Live</a>
+                <a href='https://github.com/akram3598786/TravelCity-Clone'target="_blank">Source Code</a>
+                <a href='https://travelcity-clone.netlify.app/'target="_blank">Live</a>
             </div>
          </div>
          <div>
@@ -25,8 +25,8 @@ function Project() {
             <h2>It helps user to achive there fitness goal </h2>
             <h3>HTML | CSS | JAVASCRIPT | JSON-SERVER | REACT | Redux</h3>
             <div className='github'>
-                <a href='https://github.com/Ankit-Ankushe/myFitnessPal-Clone'>Source Code</a>
-                <a href='https://lifestylepalteam.netlify.app/'>Live</a>
+                <a href='https://github.com/Ankit-Ankushe/myFitnessPal-Clone'target="_blank">Source Code</a>
+                <a href='https://lifestylepalteam.netlify.app/'target="_blank">Live</a>
             </div>
          </div>
          <div>
@@ -35,8 +35,8 @@ function Project() {
             <h2>user can order food thorugh kfc website</h2>
             <h3>HTML | CSS | JAVASCRIPT | JSON-SERVER | REACT | Redux</h3>
             <div className='github'>
-                <a href='https://github.com/Mukul-hub-dotcom/KFC_clone_Project'>Source Code</a>
-                <a href='https://kfc-clonning.netlify.app/'>Live</a>
+                <a href='https://github.com/Mukul-hub-dotcom/KFC_clone_Project'target="_blank">Source Code</a>
+                <a href='https://kfc-clonning.netlify.app/'target="_blank">Live</a>
             </div>
          </div>
          <div>
@@ -45,8 +45,8 @@ function Project() {
             <h2>provide Online cab booking facility to the user</h2>
             <h3>HTML | CSS | JAVASCRIPT | JSON-SERVER | REACT | Redux | LOCAL-STORAGE</h3>
             <div className='github'>
-                <a href='https://github.com/rahul-6472/zoomcar.in'>Source Code</a>
-                <a href='https://zoomcar-india.netlify.app/'>Live</a>
+                <a href='https://github.com/rahul-6472/zoomcar.in'target="_blank">Source Code</a>
+                <a href='https://zoomcar-india.netlify.app/'target="_blank">Live</a>
             </div>
          </div>
        </div>

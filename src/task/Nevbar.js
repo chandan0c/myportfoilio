@@ -14,7 +14,8 @@ function Nevbar(props) {
             <span onClick={()=>{props.handleONclick(4)}} >Skills</span>
             <span onClick={()=>{props.handleONclick(5)}} >Projects</span>
             <span onClick={()=>{props.handleONclick(6)}} >Contacts</span>
-            <span onClick={()=>{props.handleONclick(7)}} className="resume">Resume</span>
+            {/*<span onClick={()=>{props.handleONclick(7)}} className="resume">Resume</span>*/}
+            <span><a href="https://drive.google.com/file/d/1LANcQgtPwNwQjUCqvEms8qtDBXquUGRX/view?usp=sharing" target="_blank">Resume</a></span>
          </div>
      </div>
     </div>

@@ -5,10 +5,10 @@ function Contact() {
     <div  >
        <h1  >Contact Me</h1>
        <h3 >
-         <a  href='https://www.linkedin.com/in/chandan-giri-9746a6238/'>Linkdin</a>
+         <a  href='https://www.linkedin.com/in/chandan-giri-9746a6238/' target="_blank">Linkdin</a>
        </h3>
        <h3 >
-         <a href='https://github.com/'>Git Hub</a>
+         <a href='https://github.com/' target="_blank">Git Hub</a>
        </h3>
        <h3 >
          <span >chandan0c098@gmail.com</span>
