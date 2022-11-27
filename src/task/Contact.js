@@ -8,7 +8,7 @@ function Contact() {
          <a  href='https://www.linkedin.com/in/chandan-giri-9746a6238/' target="_blank" rel="noreferrer">Linkdin</a>
        </h3>
        <h3 >
-         <a href='https://github.com/' target="_blank" rel="noreferrer">Git Hub</a>
+         <a href='https://github.com/chandan0c' target="_blank" rel="noreferrer">Git Hub</a>
        </h3>
        <h3 >
          {/*<span >chandan0c098@gmail.com</span>*/}
