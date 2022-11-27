@@ -13,6 +13,9 @@
 .contact span{
     color: brown;
 }
+.contact a:hover{
+    color: brown; 
+}
 @media only screen and (max-width: 500px){
     .contact{
         padding-top: 20px;

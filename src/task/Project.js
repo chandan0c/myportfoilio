@@ -12,8 +12,8 @@ function Project() {
          <div>
             <img src={travelocity} alt="pagal"/>
             <h1>Trevleocity Clone</h1>
-            <h2>It Provide online hotel and cab booking service to the user</h2>
-            <h3>HTML | CSS | JAVASCRIPT | JSON-SERVER | REACT | Redux | MATERIAL-UI | CHAKRA-UI</h3>
+            <h2> <span style={{fontSize:15}}> Description :</span>It Provide online hotel and cab booking service to the user</h2>
+            <h3><span style={{fontSize:15}}>TECH STACK</span>:HTML | CSS | JAVASCRIPT | JSON-SERVER | REACT | Redux | MATERIAL-UI | CHAKRA-UI</h3>
             <div className='github'>
                 <a href='https://github.com/akram3598786/TravelCity-Clone'target="_blank">Source Code</a>
                 <a href='https://travelcity-clone.netlify.app/'target="_blank">Live</a>
@@ -22,8 +22,8 @@ function Project() {
          <div>
             <img src={myfitness} alt="pagal"/>
             <h1>MyFitnessPal Clone</h1>
-            <h2>It helps user to achive there fitness goal </h2>
-            <h3>HTML | CSS | JAVASCRIPT | JSON-SERVER | REACT | Redux</h3>
+            <h2> <span style={{fontSize:15}}>DESCRIPTION</span>:It helps user to achive there fitness goal </h2>
+            <h3><span style={{fontSize:15}}>TECH STACK</span>: HTML | CSS | JAVASCRIPT | JSON-SERVER | REACT | Redux</h3>
             <div className='github'>
                 <a href='https://github.com/Ankit-Ankushe/myFitnessPal-Clone'target="_blank">Source Code</a>
                 <a href='https://lifestylepalteam.netlify.app/'target="_blank">Live</a>
@@ -32,8 +32,8 @@ function Project() {
          <div>
             <img src={kfc} alt="pagal"/>
             <h1>KFC Clone</h1>
-            <h2>user can order food thorugh kfc website</h2>
-            <h3>HTML | CSS | JAVASCRIPT | JSON-SERVER | REACT | Redux</h3>
+            <h2><span style={{fontSize:15}}>DESCRIPTION</span>: user can order food thorugh our kfc website</h2>
+            <h3><span style={{fontSize:15}}>TECH STACK</span> : HTML | CSS | JAVASCRIPT | JSON-SERVER | REACT | Redux</h3>
             <div className='github'>
                 <a href='https://github.com/Mukul-hub-dotcom/KFC_clone_Project'target="_blank">Source Code</a>
                 <a href='https://kfc-clonning.netlify.app/'target="_blank">Live</a>
@@ -42,8 +42,8 @@ function Project() {
          <div>
             <img src={zoomcar} alt="pagal"/>
             <h1>ZoomCar Clone</h1>
-            <h2>provide Online cab booking facility to the user</h2>
-            <h3>HTML | CSS | JAVASCRIPT | JSON-SERVER | REACT | Redux | LOCAL-STORAGE</h3>
+            <h2><span style={{fontSize:15}}>DESCRIPTION</span> : provide Online cab booking facility to the user</h2>
+            <h3><span style={{fontSize:15}}>TECH STACK</span> : HTML | CSS | JAVASCRIPT | JSON-SERVER | REACT | Redux | LOCAL-STORAGE</h3>
             <div className='github'>
                 <a href='https://github.com/rahul-6472/zoomcar.in'target="_blank">Source Code</a>
                 <a href='https://zoomcar-india.netlify.app/'target="_blank">Live</a>

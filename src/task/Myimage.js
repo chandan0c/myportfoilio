@@ -8,7 +8,7 @@ function Myimage() {
            <div>
            <h1>Hi I am Chandan,</h1>
            <h1 className="red">Full Stack Developer</h1>
-           <h2>An enthusiastic Full Stack Web Developer with a strong set of <br/> as well as non-technical skills and a dedication towards <br/> creating useful and interactive web applications.</h2>
+           <h2>An enthusiastic Full Stack Web Developer with a strong set of technical<br/> as well as non-technical skills and a dedication towards <br/> creating useful and interactive web applications.</h2>
            <span className='ResumBtn'><button>
                <a href="https://drive.google.com/file/d/1LANcQgtPwNwQjUCqvEms8qtDBXquUGRX/view?usp=sharing" target="_blank">Resume</a>
            </button>
@@ -19,8 +19,8 @@ function Myimage() {
               <a href="https://github.com/" target="_blank">Github</a>
            </div>
         </div>
-        <div className='myimg2'>
-            <img src={logo} alt="pagal"/>
+        <div className='myimg2' >
+            <img style={{width:"100%"}} src={logo} alt="pagal"/>
         </div>
      </div>
   )

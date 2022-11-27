@@ -29,5 +29,13 @@
     .nevbar span{
         color: white;
         font-size: 10px;
-    }    
+    }  
+    .nevbar span a{
+        font-size: 10px;
+    }  
+
+    .myimg h1{
+        font-size: 30px !important;
+    }
+
 }
