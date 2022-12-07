@@ -16,12 +16,15 @@
 }
 .skills button{
     display: block;
-    padding: 10px 30px;
+    padding: 10px 10px;
     color: rgb(231, 60, 60);
     background-color: white;
     width: 120px;
     margin-bottom: 10px;
     border-radius: 10px;
+}
+button img{
+    width: 100%;
 }
 @media only screen and (max-width: 500px){
     .skills{

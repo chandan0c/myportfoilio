@@ -5,7 +5,7 @@ function Contact() {
     <div  >
        <h1  >Contact Me</h1>
        <h3 >
-         <a  href='https://www.linkedin.com/in/chandan-giri-9746a6238/' target="_blank" rel="noreferrer">Linkdin</a>
+         <a  href='https://www.linkedin.com/in/chandan-giri-9746a6238/' target="_blank" rel="noreferrer">Linkedin</a>
        </h3>
        <h3 >
          <a href='https://github.com/chandan0c' target="_blank" rel="noreferrer">Git Hub</a>

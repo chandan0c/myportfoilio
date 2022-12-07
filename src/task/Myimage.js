@@ -16,7 +16,7 @@ function Myimage() {
            </span>
            </div>
            <div className="sociallink">
-              <a href="https://www.linkedin.com/in/chandan-giri-9746a6238/" target="_blank" rel="noreferrer">Linkdin</a>
+              <a href="https://www.linkedin.com/in/chandan-giri-9746a6238/" target="_blank" rel="noreferrer">Linkedin</a>
               <a href="https://github.com/" target="_blank" rel="noreferrer">Github</a>
            </div>
         </div>
