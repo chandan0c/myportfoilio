@@ -10,7 +10,8 @@ function Aboutme() {
         <div>
             <h1>About me</h1>
             <h2>
-            Full-Stack Web Developer with the ability to learn <br/>and collaborate in rapidly changing environments <br/>and compositions. Worked through 1000+ hours of Bootcamp structure learning JavaScript, Node.Js,<br/> React.Js, MongoDB, Express, HTML5, and CSS3.
+           {/* Full-Stack Web Developer with the ability to learn <br/>and collaborate in rapidly changing environments <br/>and compositions. Worked through 1000+ hours of Bootcamp structure learning JavaScript, Node.Js,<br/> React.Js, MongoDB, Express, HTML5, and CSS3.*/}
+           Full-Stack Web Developer with the ability to learn and collaborate in rapidly changing environments and compositions. Worked through 1000+ hours of Bootcamp structure learning JavaScript, Node.Js, React.Js, MongoDB, Express, HTML5, and CSS3.
             </h2>
         </div>
     </div>

@@ -1,6 +1,7 @@
 .myimg{
     padding: 5px;
     display: grid;
+    margin-top: 55px;
     grid-template-columns: auto auto;
     color: white;
     background-color: rgb(31, 28, 28);
