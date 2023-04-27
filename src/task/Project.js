@@ -9,7 +9,7 @@ function Project() {
     <div className='projectcontainer' id="project">
        <h1>Projects</h1>
        <div className='project'>
-         <div>
+         <div style={{width:"95%"}}>
             <img src={travelocity} alt="pagal"/>
             <h1>Trevleocity Clone</h1>
             <h2> <span style={{fontSize:15}}> Description :</span>It Provide online hotel and cab booking service to the user</h2>
@@ -29,7 +29,7 @@ function Project() {
                 <a href='https://lifestylepalteam.netlify.app/'target="_blank" rel="noreferrer">Live</a>
             </div>
          </div>
-         <div>
+         <div style={{width:"95%"}}>
             <img src={kfc} alt="pagal"/>
             <h1>KFC Clone</h1>
             <h2><span style={{fontSize:15}}>DESCRIPTION</span>: user can order food thorugh our kfc website</h2>
